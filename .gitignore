@@ -1,5 +1,2 @@
 # ignore copied Markdown files
 copy*.md
-
-# ignore app notes
-*notes.md
